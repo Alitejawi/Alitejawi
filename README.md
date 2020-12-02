@@ -1,8 +1,8 @@
 <h1 align="left">Hi! My name is Ali Al-Itejawi. 🧑🏻‍💻</h2>
-<p align="left">I'm a macOS System Engineer from Amsterdam.</p>
+<p align="left">I'm a macOS System Engineer from Amsterdam and I love books.</p>
 
 
-### About Me 💻 :
+### About Me:
 - 🏦 I'm working for a travel company in Amsterdam with a great startup mentality and great colleagues. I work on macOS Engineering and develop solutions using MDM for issues before my colleague notice them (most of the time)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.py```,``` .sh```, ```.git```
