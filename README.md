@@ -3,7 +3,7 @@
 
 
 ### About Me 💻 :
-- 🏦 I'm working for a travel company in Amsterdam with a great startup mentallity and great colleagues. I work on macOS Engineering and develop solutions using MDM for issues before my colleague notice them (most of the time)
+- 🏦 I'm working for a travel company in Amsterdam with a great startup mentality and great colleagues. I work on macOS Engineering and develop solutions using MDM for issues before my colleague notice them (most of the time)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.py```,``` .sh```, ```.git```
 - 🌱 I’m currently learning Python, Linux and Ansible
@@ -28,5 +28,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
 </p>
 
