@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Python, Linux and Ansible
 - 💬 Talk to me about Bash, Python and coffee. Especially coffee ☕
 - ⚡ Fun fact: I am addicted to good coffee. I love to read
+- 📫 I love to meet new people! Shoot me an email: ali@al-itejawi.com
 
 **Languages and Tools:** 
 
