@@ -12,6 +12,7 @@
 - 📫 I love to meet new people! Shoot me an email: ali@al-itejawi.com
 <br />
 <br />
+
 **Languages and Tools:** 
 
 <!-- Your github readme stats
