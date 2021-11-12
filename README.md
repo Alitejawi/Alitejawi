@@ -1,5 +1,5 @@
 <h1 align="left">Hi! My name is Ali Al-Itejawi. 👋👨🏻‍💻</h2>
-<p align="left">I'm a macOS System Engineer from Amsterdam.</p>
+<p align="left">I'm an Apple Platform Engineer from Amsterdam.</p>
 
 
 ### About Me:
