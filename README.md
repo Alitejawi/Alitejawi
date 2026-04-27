@@ -11,7 +11,7 @@
 - 🧪 Always learning: currently deep in Proxmox, n8n, Ollama, and homelab tinkering.
 - ☕ Talk to me about identity architecture, MDM, homelabs, or coffee. Especially coffee.
 - 📚 Fun fact: I'm a coffee snob and I read a lot. Film photography (Canon A-1, Fomapan, Portra) and vintage watches keep me sane outside work.
-- 📫 Reach me: [ali@al-itejawi.com](mailto:ali@itejawi.com)
+- 📫 Reach me: [ali@itejawi.com](mailto:ali@itejawi.com)
 
 <br />
 
